@@ -1,1 +1,15 @@
-/* Escribe aqui tu CSS */
+div {
+border: 20px solid yellow;
+width: 300px;
+}
+
+.caja-1{
+	text-align: center;
+	padding:22px;
+	margin-bottom: 30px;
+}
+
+.caja-2{
+	padding:22px;
+	margin: 0 auto;
+}
